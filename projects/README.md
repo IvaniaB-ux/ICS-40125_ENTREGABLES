@@ -1,3 +1,3 @@
 # Descripción de los proyectos
 
-* [Proyecto](project_01.ipynb): descripción del proyecto.
+* [Proyecto 01](project_01.ipynb): descripción del proyecto.
